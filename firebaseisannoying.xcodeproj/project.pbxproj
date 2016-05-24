@@ -21,16 +21,6 @@
 		64B2BEC31CEF893500DD5C18 /* StartUpPageVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BEC21CEF893500DD5C18 /* StartUpPageVC.swift */; };
 		64B2BEC71CEF895600DD5C18 /* RankingCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BEC61CEF895600DD5C18 /* RankingCell.swift */; };
 		64B2BEC91CEF895C00DD5C18 /* SchoolSearchCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BEC81CEF895C00DD5C18 /* SchoolSearchCell.swift */; };
-		64B2BED71CF393F900DD5C18 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BED61CF393F900DD5C18 /* Player.swift */; };
-		64B2BED91CF3941D00DD5C18 /* csv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BED81CF3941D00DD5C18 /* csv.swift */; };
-		64B2BEDB1CF3943A00DD5C18 /* PickSchoolVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BEDA1CF3943A00DD5C18 /* PickSchoolVC.swift */; };
-		64B2BEDD1CF3944600DD5C18 /* ResetPasswordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BEDC1CF3944600DD5C18 /* ResetPasswordVC.swift */; };
-		64B2BEDF1CF3945200DD5C18 /* SignUpOrSignInVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BEDE1CF3945200DD5C18 /* SignUpOrSignInVC.swift */; };
-		64B2BEE11CF3945F00DD5C18 /* SignUpVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BEE01CF3945F00DD5C18 /* SignUpVC.swift */; };
-		64B2BEE31CF3946800DD5C18 /* UniListUSA.csv in Resources */ = {isa = PBXBuildFile; fileRef = 64B2BEE21CF3946800DD5C18 /* UniListUSA.csv */; };
-		64B2BEE51CF3947300DD5C18 /* University.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BEE41CF3947300DD5C18 /* University.swift */; };
-		64B2BEE71CF3949800DD5C18 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BEE61CF3949800DD5C18 /* Constants.swift */; };
-		64B2BEE91CF394AD00DD5C18 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BEE81CF394AD00DD5C18 /* DataService.swift */; };
 		64B2BF0A1CF39D1400DD5C18 /* FBSDKLoginKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64B2BF091CF39D1400DD5C18 /* FBSDKLoginKit.framework */; };
 		64B2BF0C1CF39D2100DD5C18 /* FBSDKCoreKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64B2BF0B1CF39D2100DD5C18 /* FBSDKCoreKit.framework */; };
 		64B2BF0E1CF39D3C00DD5C18 /* Bolts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 64B2BF0D1CF39D3C00DD5C18 /* Bolts.framework */; };
@@ -40,6 +30,16 @@
 		64B2BF161CF39F5000DD5C18 /* SchoolLeaderboardVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BF151CF39F5000DD5C18 /* SchoolLeaderboardVC.swift */; };
 		64B2BF181CF39FFF00DD5C18 /* LocationLeaderboardVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BF171CF39FFF00DD5C18 /* LocationLeaderboardVC.swift */; };
 		64B2BF1A1CF4119E00DD5C18 /* unilistusagood.csv in Resources */ = {isa = PBXBuildFile; fileRef = 64B2BF191CF4119E00DD5C18 /* unilistusagood.csv */; };
+		64B2BF1C1CF43BF100DD5C18 /* Player.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BF1B1CF43BF100DD5C18 /* Player.swift */; };
+		64B2BF1E1CF43C7400DD5C18 /* University.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BF1D1CF43C7400DD5C18 /* University.swift */; };
+		64B2BF201CF43CA800DD5C18 /* PickSchoolVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BF1F1CF43CA800DD5C18 /* PickSchoolVC.swift */; };
+		64B2BF221CF43D2100DD5C18 /* ResetPasswordVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BF211CF43D2100DD5C18 /* ResetPasswordVC.swift */; };
+		64B2BF241CF43D5000DD5C18 /* DataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BF231CF43D5000DD5C18 /* DataService.swift */; };
+		64B2BF261CF43D8D00DD5C18 /* csv.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BF251CF43D8D00DD5C18 /* csv.swift */; };
+		64B2BF281CF43DBB00DD5C18 /* UniListUSA.csv in Resources */ = {isa = PBXBuildFile; fileRef = 64B2BF271CF43DBB00DD5C18 /* UniListUSA.csv */; };
+		64B2BF2A1CF43DD800DD5C18 /* SignUpVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BF291CF43DD800DD5C18 /* SignUpVC.swift */; };
+		64B2BF2C1CF43E3F00DD5C18 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BF2B1CF43E3F00DD5C18 /* Constants.swift */; };
+		64B2BF2E1CF43E8100DD5C18 /* SignUpOrSignInVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B2BF2D1CF43E8100DD5C18 /* SignUpOrSignInVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -80,16 +80,6 @@
 		64B2BEC21CEF893500DD5C18 /* StartUpPageVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StartUpPageVC.swift; sourceTree = "<group>"; };
 		64B2BEC61CEF895600DD5C18 /* RankingCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RankingCell.swift; sourceTree = "<group>"; };
 		64B2BEC81CEF895C00DD5C18 /* SchoolSearchCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SchoolSearchCell.swift; sourceTree = "<group>"; };
-		64B2BED61CF393F900DD5C18 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Player.swift; path = "../../../Downloads/leaderbo69ardplatform-master/Player.swift"; sourceTree = "<group>"; };
-		64B2BED81CF3941D00DD5C18 /* csv.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = csv.swift; path = "../../../Downloads/leaderbo69ardplatform-master/LeaderboardPlatform/csv.swift"; sourceTree = "<group>"; };
-		64B2BEDA1CF3943A00DD5C18 /* PickSchoolVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = PickSchoolVC.swift; path = "../../../Downloads/leaderbo69ardplatform-master/LeaderboardPlatform/PickSchoolVC.swift"; sourceTree = "<group>"; };
-		64B2BEDC1CF3944600DD5C18 /* ResetPasswordVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ResetPasswordVC.swift; path = "../../../Downloads/leaderbo69ardplatform-master/LeaderboardPlatform/ResetPasswordVC.swift"; sourceTree = "<group>"; };
-		64B2BEDE1CF3945200DD5C18 /* SignUpOrSignInVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignUpOrSignInVC.swift; path = "../../../Downloads/leaderbo69ardplatform-master/LeaderboardPlatform/SignUpOrSignInVC.swift"; sourceTree = "<group>"; };
-		64B2BEE01CF3945F00DD5C18 /* SignUpVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SignUpVC.swift; path = "../../../Downloads/leaderbo69ardplatform-master/LeaderboardPlatform/SignUpVC.swift"; sourceTree = "<group>"; };
-		64B2BEE21CF3946800DD5C18 /* UniListUSA.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = UniListUSA.csv; path = "../../../Downloads/leaderbo69ardplatform-master/LeaderboardPlatform/UniListUSA.csv"; sourceTree = "<group>"; };
-		64B2BEE41CF3947300DD5C18 /* University.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = University.swift; path = "../../../Downloads/leaderbo69ardplatform-master/LeaderboardPlatform/University.swift"; sourceTree = "<group>"; };
-		64B2BEE61CF3949800DD5C18 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Constants.swift; path = "../../../Downloads/leaderbo69ardplatform-master/LeaderboardPlatform/Constants.swift"; sourceTree = "<group>"; };
-		64B2BEE81CF394AD00DD5C18 /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = DataService.swift; path = "../../../Downloads/leaderbo69ardplatform-master/LeaderboardPlatform/DataService.swift"; sourceTree = "<group>"; };
 		64B2BF091CF39D1400DD5C18 /* FBSDKLoginKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKLoginKit.framework; sourceTree = "<group>"; };
 		64B2BF0B1CF39D2100DD5C18 /* FBSDKCoreKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FBSDKCoreKit.framework; sourceTree = "<group>"; };
 		64B2BF0D1CF39D3C00DD5C18 /* Bolts.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = Bolts.framework; sourceTree = "<group>"; };
@@ -99,6 +89,16 @@
 		64B2BF151CF39F5000DD5C18 /* SchoolLeaderboardVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SchoolLeaderboardVC.swift; sourceTree = "<group>"; };
 		64B2BF171CF39FFF00DD5C18 /* LocationLeaderboardVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LocationLeaderboardVC.swift; sourceTree = "<group>"; };
 		64B2BF191CF4119E00DD5C18 /* unilistusagood.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; lineEnding = 1; path = unilistusagood.csv; sourceTree = "<group>"; };
+		64B2BF1B1CF43BF100DD5C18 /* Player.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Player.swift; sourceTree = "<group>"; };
+		64B2BF1D1CF43C7400DD5C18 /* University.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = University.swift; sourceTree = "<group>"; };
+		64B2BF1F1CF43CA800DD5C18 /* PickSchoolVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PickSchoolVC.swift; sourceTree = "<group>"; };
+		64B2BF211CF43D2100DD5C18 /* ResetPasswordVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResetPasswordVC.swift; sourceTree = "<group>"; };
+		64B2BF231CF43D5000DD5C18 /* DataService.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataService.swift; sourceTree = "<group>"; };
+		64B2BF251CF43D8D00DD5C18 /* csv.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = csv.swift; sourceTree = "<group>"; };
+		64B2BF271CF43DBB00DD5C18 /* UniListUSA.csv */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = UniListUSA.csv; sourceTree = "<group>"; };
+		64B2BF291CF43DD800DD5C18 /* SignUpVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpVC.swift; sourceTree = "<group>"; };
+		64B2BF2B1CF43E3F00DD5C18 /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		64B2BF2D1CF43E8100DD5C18 /* SignUpOrSignInVC.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignUpOrSignInVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -166,22 +166,22 @@
 				64B2BF081CF39CFD00DD5C18 /* Frameworks */,
 				64B2BE861CEF875C00DD5C18 /* AppDelegate.swift */,
 				64B2BF111CF39E4200DD5C18 /* FacebookOrEmailVC.swift */,
-				64B2BED61CF393F900DD5C18 /* Player.swift */,
+				64B2BF1B1CF43BF100DD5C18 /* Player.swift */,
 				64B2BF0F1CF39DB400DD5C18 /* Main.storyboard */,
-				64B2BEE41CF3947300DD5C18 /* University.swift */,
-				64B2BED81CF3941D00DD5C18 /* csv.swift */,
+				64B2BF1D1CF43C7400DD5C18 /* University.swift */,
 				64B2BF171CF39FFF00DD5C18 /* LocationLeaderboardVC.swift */,
-				64B2BEDE1CF3945200DD5C18 /* SignUpOrSignInVC.swift */,
-				64B2BEE21CF3946800DD5C18 /* UniListUSA.csv */,
+				64B2BF251CF43D8D00DD5C18 /* csv.swift */,
 				64B2BF191CF4119E00DD5C18 /* unilistusagood.csv */,
-				64B2BEE01CF3945F00DD5C18 /* SignUpVC.swift */,
 				64B2BF131CF39EAB00DD5C18 /* FriendsLeaderboardVC.swift */,
+				64B2BF2D1CF43E8100DD5C18 /* SignUpOrSignInVC.swift */,
+				64B2BF271CF43DBB00DD5C18 /* UniListUSA.csv */,
+				64B2BF1F1CF43CA800DD5C18 /* PickSchoolVC.swift */,
+				64B2BF291CF43DD800DD5C18 /* SignUpVC.swift */,
 				64B2BF151CF39F5000DD5C18 /* SchoolLeaderboardVC.swift */,
-				64B2BEE61CF3949800DD5C18 /* Constants.swift */,
-				64B2BEE81CF394AD00DD5C18 /* DataService.swift */,
-				64B2BEDC1CF3944600DD5C18 /* ResetPasswordVC.swift */,
+				64B2BF2B1CF43E3F00DD5C18 /* Constants.swift */,
+				64B2BF231CF43D5000DD5C18 /* DataService.swift */,
 				64B2BEC21CEF893500DD5C18 /* StartUpPageVC.swift */,
-				64B2BEDA1CF3943A00DD5C18 /* PickSchoolVC.swift */,
+				64B2BF211CF43D2100DD5C18 /* ResetPasswordVC.swift */,
 				64B2BEC61CEF895600DD5C18 /* RankingCell.swift */,
 				64B2BEC81CEF895C00DD5C18 /* SchoolSearchCell.swift */,
 				64B2BE8D1CEF875C00DD5C18 /* Assets.xcassets */,
@@ -327,9 +327,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				64B2BEE31CF3946800DD5C18 /* UniListUSA.csv in Resources */,
 				64B2BE911CEF875C00DD5C18 /* LaunchScreen.storyboard in Resources */,
 				64B2BF1A1CF4119E00DD5C18 /* unilistusagood.csv in Resources */,
+				64B2BF281CF43DBB00DD5C18 /* UniListUSA.csv in Resources */,
 				64B2BE8E1CEF875C00DD5C18 /* Assets.xcassets in Resources */,
 				64B2BF101CF39DB400DD5C18 /* Main.storyboard in Resources */,
 			);
@@ -356,23 +356,23 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64B2BF261CF43D8D00DD5C18 /* csv.swift in Sources */,
+				64B2BF2C1CF43E3F00DD5C18 /* Constants.swift in Sources */,
 				64B2BF141CF39EAB00DD5C18 /* FriendsLeaderboardVC.swift in Sources */,
-				64B2BED91CF3941D00DD5C18 /* csv.swift in Sources */,
-				64B2BEE91CF394AD00DD5C18 /* DataService.swift in Sources */,
 				64B2BF121CF39E4200DD5C18 /* FacebookOrEmailVC.swift in Sources */,
 				64B2BEC31CEF893500DD5C18 /* StartUpPageVC.swift in Sources */,
+				64B2BF221CF43D2100DD5C18 /* ResetPasswordVC.swift in Sources */,
 				64B2BEC71CEF895600DD5C18 /* RankingCell.swift in Sources */,
+				64B2BF2E1CF43E8100DD5C18 /* SignUpOrSignInVC.swift in Sources */,
 				64B2BEC91CEF895C00DD5C18 /* SchoolSearchCell.swift in Sources */,
-				64B2BED71CF393F900DD5C18 /* Player.swift in Sources */,
-				64B2BEDB1CF3943A00DD5C18 /* PickSchoolVC.swift in Sources */,
 				64B2BE871CEF875C00DD5C18 /* AppDelegate.swift in Sources */,
+				64B2BF241CF43D5000DD5C18 /* DataService.swift in Sources */,
 				64B2BF161CF39F5000DD5C18 /* SchoolLeaderboardVC.swift in Sources */,
-				64B2BEDF1CF3945200DD5C18 /* SignUpOrSignInVC.swift in Sources */,
-				64B2BEE51CF3947300DD5C18 /* University.swift in Sources */,
-				64B2BEE11CF3945F00DD5C18 /* SignUpVC.swift in Sources */,
-				64B2BEDD1CF3944600DD5C18 /* ResetPasswordVC.swift in Sources */,
-				64B2BEE71CF3949800DD5C18 /* Constants.swift in Sources */,
+				64B2BF2A1CF43DD800DD5C18 /* SignUpVC.swift in Sources */,
+				64B2BF1E1CF43C7400DD5C18 /* University.swift in Sources */,
+				64B2BF1C1CF43BF100DD5C18 /* Player.swift in Sources */,
 				64B2BF181CF39FFF00DD5C18 /* LocationLeaderboardVC.swift in Sources */,
+				64B2BF201CF43CA800DD5C18 /* PickSchoolVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
